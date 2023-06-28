@@ -1,0 +1,119 @@
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.exe
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.deps.json
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.runtimeconfig.json
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.pdb
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.csproj.AssemblyReference.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication_MarkupCompile.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication_MarkupCompile.lref
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.g.resources
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.AssemblyInfoInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.AssemblyInfo.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\refint\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.pdb
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.genruntimeconfig.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\ref\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\View\MainView.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\View\InfoView.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.baml
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientAPICore\WPFClientApplication\obj\Debug\net6.0-windows\View\MainView.baml
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.exe
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.deps.json
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.runtimeconfig.json
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.pdb
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\DocuSign.eSign.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.csproj.AssemblyReference.cache
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\View\InfoView.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\View\MainView.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication_MarkupCompile.cache
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication_MarkupCompile.lref
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.baml
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\View\InfoView.baml
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\View\MainView.baml
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.g.resources
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.AssemblyInfoInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.AssemblyInfo.cs
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.csproj.CopyComplete
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\refint\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.pdb
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.genruntimeconfig.cache
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\obj\Debug\net6.0-windows\ref\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\Petnet.ActivityTracker.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\softaware.Authentication.Hmac.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\softaware.Authentication.Hmac.Client.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\CrudModels.dll
+C:\Users\z004rf0a\Desktop\HMAC\HMAC In ASP.NET Web API\WPFClientApplication\bin\Debug\net6.0-windows\CrudModels.pdb
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.csproj.AssemblyReference.cache
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.g.cs
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\View\InfoView.g.cs
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\View\LoginView.g.cs
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\View\MainView.g.cs
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication_MarkupCompile.cache
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication_MarkupCompile.lref
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\refint\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.pdb
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.exe
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.deps.json
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.runtimeconfig.json
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\WPFClientApplication.pdb
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\DocuSign.eSign.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\softaware.Authentication.Hmac.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\softaware.Authentication.Hmac.Client.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\CrudModels.dll
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\bin\Debug\net6.0-windows\CrudModels.pdb
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\CustomControls\BindablePasswordBox.baml
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\View\InfoView.baml
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\View\LoginView.baml
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\View\MainView.baml
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.g.resources
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.AssemblyInfoInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.AssemblyInfo.cs
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.csproj.CopyComplete
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\WPFClientApplication.genruntimeconfig.cache
+C:\Users\z004rf0a\Desktop\HMAC in CRUD applicaiton\WPFClientApplication\obj\Debug\net6.0-windows\ref\WPFClientApplication.dll

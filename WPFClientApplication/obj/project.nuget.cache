@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqBaFelZ29IWpndBCtOrckE8hNLJPHBl0iX7sFoEFuYsEgEw03OsD2JPiaG7Rup94TdRdbpKP/MsuKlkhVD9kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z004rf0a\\Desktop\\HMAC in CRUD applicaiton\\WPFClientApplication\\WPFClientApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\docusign.esign.dll\\6.5.0\\docusign.esign.dll.6.5.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.31.0\\microsoft.identitymodel.abstractions.6.31.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.4.0\\microsoft.identitymodel.jsonwebtokens.5.4.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\microsoft.identitymodel.logging\\6.31.0\\microsoft.identitymodel.logging.6.31.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.31.0\\microsoft.identitymodel.protocols.6.31.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.31.0\\microsoft.identitymodel.tokens.6.31.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\softaware.authentication.hmac\\2.0.0\\softaware.authentication.hmac.2.0.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\softaware.authentication.hmac.client\\2.0.1\\softaware.authentication.hmac.client.2.0.1.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.4.0\\system.identitymodel.tokens.jwt.5.4.0.nupkg.sha512",
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

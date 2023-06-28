@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "softaware.Authentication.Hmac/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/softaware.Authentication.Hmac.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/softaware.Authentication.Hmac.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "softaware.Authentication.Hmac.Client/2.0.1": {
+        "type": "package",
+        "dependencies": {
+          "softaware.Authentication.Hmac": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/softaware.Authentication.Hmac.Client.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/softaware.Authentication.Hmac.Client.dll": {
+            "related": ".pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "softaware.Authentication.Hmac/2.0.0": {
+      "sha512": "PS88gsWwxzu0zZhzaNC9YkgvfxexKqzWo3L4n/CrxLTsHFeLegOC09Gxq02OawgkyIwC3BOmz5VmT7zTdoH8Fg==",
+      "type": "package",
+      "path": "softaware.authentication.hmac/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/softaware.Authentication.Hmac.dll",
+        "lib/netstandard2.0/softaware.Authentication.Hmac.pdb",
+        "package-icon.png",
+        "softaware.authentication.hmac.2.0.0.nupkg.sha512",
+        "softaware.authentication.hmac.nuspec"
+      ]
+    },
+    "softaware.Authentication.Hmac.Client/2.0.1": {
+      "sha512": "IOGcYiQ/YcZDcm05uHLSONxDLuDfQXgTdMppOO1SOKpAQkIYBtE1SH8hzN/f2E64lneAxaTZNAaBuumQFTB7IQ==",
+      "type": "package",
+      "path": "softaware.authentication.hmac.client/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/softaware.Authentication.Hmac.Client.dll",
+        "lib/netstandard2.0/softaware.Authentication.Hmac.Client.pdb",
+        "package-icon.png",
+        "softaware.authentication.hmac.client.2.0.1.nupkg.sha512",
+        "softaware.authentication.hmac.client.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "softaware.Authentication.Hmac.Client >= 2.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\z004rf0a\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\z004rf0a\\Desktop\\HMAC in CRUD applicaiton\\clientApplication\\clientApplication.csproj",
+      "projectName": "clientApplication",
+      "projectPath": "C:\\Users\\z004rf0a\\Desktop\\HMAC in CRUD applicaiton\\clientApplication\\clientApplication.csproj",
+      "packagesPath": "C:\\Users\\z004rf0a\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\z004rf0a\\Desktop\\HMAC in CRUD applicaiton\\clientApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\z004rf0a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\z004rf0a\\Downloads": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "softaware.Authentication.Hmac.Client": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocuSign.eSign.dll" Version="6.5.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Logging" Version="6.31.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Protocols" Version="6.31.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.31.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="softaware.Authentication.Hmac.Client" Version="2.0.1" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CrudModels">
+      <HintPath>..\..\Project_ver1\CrudOperation\CrudModels\bin\Debug\netstandard2.0\CrudModels.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <!--<ItemGroup>
+    <Reference Include="CrudModels">
+      <HintPath>..\..\..\WPF tutorial\LoginPage\LoginPage\CrudModels.dll</HintPath>
+    </Reference>
+    <Reference Include="EmployeeDataAccess">
+      <HintPath>..\..\..\ASP.NET Web APIs\EmployeeService\EmployDataAccess\bin\Debug\EmployeeDataAccess.dll</HintPath>
+    </Reference>
+  </ItemGroup>-->
+
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netstandard2.0\clientApplication.deps.json
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netstandard2.0\clientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netstandard2.0\clientApplication.pdb
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netstandard2.0\clientApplication.csproj.AssemblyReference.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netstandard2.0\clientApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netstandard2.0\clientApplication.AssemblyInfoInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netstandard2.0\clientApplication.AssemblyInfo.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netstandard2.0\clientApplication.csproj.CoreCompileInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netstandard2.0\clientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netstandard2.0\clientApplication.pdb

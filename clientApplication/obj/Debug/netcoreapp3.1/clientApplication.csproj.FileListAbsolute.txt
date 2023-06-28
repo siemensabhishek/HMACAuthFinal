@@ -1,0 +1,17 @@
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netcoreapp3.1\clientApplication.exe
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netcoreapp3.1\clientApplication.deps.json
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netcoreapp3.1\clientApplication.runtimeconfig.json
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netcoreapp3.1\clientApplication.runtimeconfig.dev.json
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netcoreapp3.1\clientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netcoreapp3.1\clientApplication.pdb
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netcoreapp3.1\softaware.Authentication.Hmac.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\bin\Debug\netcoreapp3.1\softaware.Authentication.Hmac.Client.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netcoreapp3.1\clientApplication.csproj.AssemblyReference.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netcoreapp3.1\clientApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netcoreapp3.1\clientApplication.AssemblyInfoInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netcoreapp3.1\clientApplication.AssemblyInfo.cs
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netcoreapp3.1\clientApplication.csproj.CoreCompileInputs.cache
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netcoreapp3.1\clientApplication.csproj.CopyComplete
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netcoreapp3.1\clientApplication.dll
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netcoreapp3.1\clientApplication.pdb
+C:\Users\z004rf0a\Desktop\HMAC\Cient Application Core\clientApplication\obj\Debug\netcoreapp3.1\clientApplication.genruntimeconfig.cache
