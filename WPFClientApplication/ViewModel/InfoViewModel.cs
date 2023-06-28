@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 
+
 namespace WPFClientApplication.ViewModel
 {
     public class InfoViewModel : ViewModelBase
@@ -75,7 +76,6 @@ namespace WPFClientApplication.ViewModel
                 OnPropertyChanged("Address");
             }
         }
-
 
 
         public bool IsReadOnly
@@ -162,6 +162,7 @@ namespace WPFClientApplication.ViewModel
                     string responseString = await response.Content.ReadAsStringAsync();
                     Console.WriteLine(responseString);
                     Console.WriteLine("Updated Successfully");
+                    //MainWindow.ViewIndex = 0;
                     MessageBox.Show("Updated Successfully Please click on Ok button to go to Home Page", "Alert", MessageBoxButton.OK, MessageBoxImage.Information);
 
                     MainWindow.ViewIndex = 0;
@@ -183,11 +184,12 @@ namespace WPFClientApplication.ViewModel
 
 
 
-        public void UpdateCustomer(int Username)
+        public Task UpdateCustomer(int Username)
         {
 
-            Task.Run(async () => await RunAsync());
-            Console.ReadLine();
+            return RunAsync();
+            //Task.Run(async () => await RunAsync());
+
 
         }
 
